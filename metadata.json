@@ -1,0 +1,5 @@
+{
+  "name": "Smart Gemini Counter",
+  "description": "A premium counter application integrated with Google Gemini to provide interesting facts and insights about the numbers you count.",
+  "requestFramePermissions": []
+}
